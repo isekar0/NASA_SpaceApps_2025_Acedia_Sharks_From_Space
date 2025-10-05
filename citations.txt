@@ -1,4 +1,4 @@
-Data​
+## Data​
 
 ECCO Consortium, Fukumori, I., Wang, O., Fenty, I., Forget, G., Heimbach, P., & Ponte, R. M.. 2021. ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Daily Mean 0.5 Degree (Version 4 Release 4). Ver. V4r4. PO.DAAC, CA, USA. Dataset accessed 2025-10-04 at https://doi.org/10.5067/ECG5D-ODE44​
 
@@ -20,7 +20,9 @@ NASA OCEAN BIOLOGY PROCESSING GROUP, 2025. Aqua MODIS Level-3 Global Mapped Chlo
 
 Block, B., Jonsen, I., Jorgensen, S. et al. Tracking apex marine predator movements in a dynamic ocean. Nature 475, 86–90 (2011). https://doi.org/10.1038/nature10082​
 
-Articles​
+  - see comments below
+
+## Articles​
 
 Chang, Yu-Lin & Oey, Lie-Yauw. (2013). Analysis of STCC eddies using the Okubo-Weiss parameter on model and satellite data. Ocean Dynamics. 64. 10.1007/s10236-013-0680-7. ​
 
@@ -35,3 +37,37 @@ Braun, Camrin & Gaube, Peter & Sinclair-Taylor, Tane & Skomal, Greg & Thorrold, 
 Xue, T. (2022). Effects of Mixed Layer Depth on Productive Marine Ecosystems: From seasonality to climate change. https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2022-00724-9​
 
 Bernal, Diego & Carlson, John & Goldman, Kenneth & Lowe, Christopher. (2012). Energetics, Metabolism and Endothermy in Sharks and Rays. 10.1201/b11867-10. 
+
+## Comments:
+
+Regarding the Stanford TOPP dataset:
+From the source
+"
+'https://mola.stanford.edu/NaturePaper/vr-index.php'
+
+NaturePaper Data Set Use Agreement                         July 2020
+
+   All NaturePaper date set data are available for future use in data analysis 
+   and publications.
+
+   Currently, from 2020-2025, all papers produced using the NaturePaper data set
+   require Stanford personnel for authorship in recognition of their effort 
+   deploying tags, and processing the tag data for your use. Also, in order to 
+   avoid duplication, we ask that for future publications using the NaturePaper
+   data set (2020 on) you first contact:
+
+       Dr. Barbara Block
+
+       bblock@stanford.edu
+
+       Tagging of Pacific Pelagics (TOPP)
+       Hopkins Marine Station
+       120 Oceanview Blvd.
+       Pacific Grove, CA 93950
+
+       (831)655-6236
+
+   for further details, and information on ongoing analyses and projects.
+"
+
+Due to time constraints, and the fact that this is not a publication, we did not request explicit permission for use of the data. We hope this is okay.
