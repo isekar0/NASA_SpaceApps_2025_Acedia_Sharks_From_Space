@@ -12,6 +12,12 @@ ESR; Dohan, Kathleen. 2022. Ocean Surface Current Analyses Real-time (OSCAR) Sur
 
 UK Met Office. 2023. GHRSST Level 4 OSTIA Global Reprocessed Foundation Sea Surface Temperature Analysis (GDS2). Ver. 2.0. PO.DAAC, CA, USA. Dataset accessed 2025-10-04 at https://doi.org/10.5067/GHOST-4RM02​
 
+NASA OCEAN BIOLOGY PROCESSING GROUP, 2025. Aqua MODIS Level-3 Global Mapped Particulate Organic Carbon (POC) Data, version 2022.0.. Online. 2025. NASA Ocean Biology Distributed Active Archive Center.
+
+NASA OCEAN BIOLOGY PROCESSING GROUP, 2025. Aqua MODIS Level-3 Global Mapped Particulate Inorganic Carbon (PIC) Data, version 2022.0.. Online. 2025. NASA Ocean Biology Distributed Active Archive Center.
+
+NASA OCEAN BIOLOGY PROCESSING GROUP, 2025. Aqua MODIS Level-3 Global Mapped Chlorophyll (CHL) Data, version 2022.0.. Online. 2025. NASA Ocean Biology Distributed Active Archive Center.
+
 Block, B., Jonsen, I., Jorgensen, S. et al. Tracking apex marine predator movements in a dynamic ocean. Nature 475, 86–90 (2011). https://doi.org/10.1038/nature10082​
 
 Articles​
@@ -27,3 +33,5 @@ Gaube, Peter & Braun, Camrin & Lawson, Gareth & McGillicuddy, Dennis & Penna, Al
 Braun, Camrin & Gaube, Peter & Sinclair-Taylor, Tane & Skomal, Greg & Thorrold, Simon. (2019). Mesoscale eddies release pelagic sharks from thermal constraints to foraging in the ocean twilight zone. Proceedings of the National Academy of Sciences. 116. 201903067. 10.1073/pnas.1903067116.
 
 Xue, T. (2022). Effects of Mixed Layer Depth on Productive Marine Ecosystems: From seasonality to climate change. https://nbn-resolving.org/urn:nbn:de:gbv:8:3-2022-00724-9​
+
+Bernal, Diego & Carlson, John & Goldman, Kenneth & Lowe, Christopher. (2012). Energetics, Metabolism and Endothermy in Sharks and Rays. 10.1201/b11867-10. 
