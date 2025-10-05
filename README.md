@@ -9,4 +9,9 @@ Due to limited time, a lot of the code might not run correctly on other machines
 
 ## Instructions
 
-### Dependencies
+1) Install dependencies with '''pip install -r requirements.txt'''
+
+   - It should be noted, there are a few libraries such as PyTorch which were installed but, due to time constraints, never used.
+2) Run dataset_downloader.py
+
+   - This will access
