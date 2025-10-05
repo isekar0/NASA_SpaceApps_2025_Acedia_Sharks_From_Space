@@ -6,13 +6,21 @@ Team: Acedia
 ## Note:
 
 Due to limited time, a lot of the code might not run correctly on other machines and environments as it was not tested for cross-platform performace.
+
 Device specs:
+
 OS            Arch Linux x86_64
+
 Kernel        Linux 6.16.10-arch1-1
+
 CPU           11th Gen Intel(R) Core(TM) i5-11400H 2.7 GHz
+
 GPU 1         NVIDIA GeForce RTX 3050 Mobile [Discrete]
+
 GPU 2         Intel UHD Graphics @ 1.4 GHz [Integrated]
+
 Memory        31.08 GiB
+
 Disk          1.69 TiB 
 
 Additionally, the last parts of the code where the oceanographic features are being merged and then used to train a model do not work due to issues with correctly chunking and loading the data.
