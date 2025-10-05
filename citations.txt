@@ -1,0 +1,27 @@
+Data​
+
+ECCO Consortium, Fukumori, I., Wang, O., Fenty, I., Forget, G., Heimbach, P., & Ponte, R. M.. 2021. ECCO Ocean Density, Stratification, and Hydrostatic Pressure - Daily Mean 0.5 Degree (Version 4 Release 4). Ver. V4r4. PO.DAAC, CA, USA. Dataset accessed 2025-10-04 at https://doi.org/10.5067/ECG5D-ODE44​
+
+ECCO Consortium, Fukumori, I., Wang, O., Fenty, I., Forget, G., Heimbach, P., & Ponte, R. M.. 2021. ECCO Ocean and Sea-Ice Surface Freshwater Fluxes - Daily Mean 0.5 Degree (Version 4 Release 4). Ver. V4r4. PO.DAAC, CA, USA. Dataset accessed 2025-10-03 at https://doi.org/10.5067/ECG5D-FRE44​
+
+ECCO Consortium, Fukumori, I., Wang, O., Fenty, I., Forget, G., Heimbach, P., & Ponte, R. M.. 2021. ECCO Ocean Mixed Layer Depth - Daily Mean 0.5 Degree (Version 4 Release 4). Ver. V4r4. PO.DAAC, CA, USA. Dataset accessed 2025-10-02 at https://doi.org/10.5067/ECG5D-OML44​
+
+ECCO Consortium, Fukumori, I., Wang, O., Fenty, I., Forget, G., Heimbach, P., & Ponte, R. M.. 2021. ECCO Sea Surface Height - Daily Mean 0.5 Degree (Version 4 Release 4). Ver. V4r4. PO.DAAC, CA, USA. Dataset accessed 2025-10-02 at https://doi.org/10.5067/ECG5D-SSH44​
+
+ESR; Dohan, Kathleen. 2022. Ocean Surface Current Analyses Real-time (OSCAR) Surface Currents - Final 0.25 Degree (Version 2.0). Ver. 2.0. PO.DAAC, CA, USA. Dataset accessed 2025-10-04 at https://doi.org/10.5067/OSCAR-25F20​
+
+UK Met Office. 2023. GHRSST Level 4 OSTIA Global Reprocessed Foundation Sea Surface Temperature Analysis (GDS2). Ver. 2.0. PO.DAAC, CA, USA. Dataset accessed 2025-10-04 at https://doi.org/10.5067/GHOST-4RM02​
+
+Block, B., Jonsen, I., Jorgensen, S. et al. Tracking apex marine predator movements in a dynamic ocean. Nature 475, 86–90 (2011). https://doi.org/10.1038/nature10082​
+
+Articles​
+
+Chang, Yu-Lin & Oey, Lie-Yauw. (2013). Analysis of STCC eddies using the Okubo-Weiss parameter on model and satellite data. Ocean Dynamics. 64. 10.1007/s10236-013-0680-7. ​
+
+Matsuoka, Daisuke & Araki, Fumiaki & Inoue, Yumi & Sasaki, Hideharu. (2016). A New Approach to Ocean Eddy Detection, Tracking, and Event Visualization-Application to The Northwest Pacific Ocean. Procedia Computer Science. 80. 10.1016/j.procs.2016.05.491. ​
+
+Andrzejaczek, Samantha & Chapple, Taylor & Jorgensen, Salvador & Anderson, Scot & Castleton, Michael & Kanive, Paul & White, Timothy & Block, Barbara. (2022). Multi-Decadal High-Resolution Data Reveal the Cryptic Vertical Movement Patterns of a Large Marine Predator Along the Californian Coast. Frontiers in Marine Science. 9. 10.3389/fmars.2022.835576. ​
+
+Gaube, Peter & Braun, Camrin & Lawson, Gareth & McGillicuddy, Dennis & Penna, Alice & Skomal, Greg & Fischer, Chris & Thorrold, Simon. (2018). Mesoscale eddies influence the movements of mature female white sharks in the Gulf Stream and Sargasso Sea. Scientific Reports. 8. 10.1038/s41598-018-25565-8. ​
+
+Braun, Camrin & Gaube, Peter & Sinclair-Taylor, Tane & Skomal, Greg & Thorrold, Simon. (2019). Mesoscale eddies release pelagic sharks from thermal constraints to foraging in the ocean twilight zone. Proceedings of the National Academy of Sciences. 116. 201903067. 10.1073/pnas.1903067116. ​
