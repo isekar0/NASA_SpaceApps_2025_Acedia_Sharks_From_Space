@@ -3,7 +3,7 @@ from pathlib import Path
 import subprocess
 import asyncio
 
-DIR_DATA = Path().cwd().resolve() / "data"
+DIR_DATA = Path(os.path.dirname(os.path.abspath(''))).resolve() / "data"
 DIR_DATA.mkdir(parents=True, exist_ok=True)
 
 async def callback(command: str = ""):
